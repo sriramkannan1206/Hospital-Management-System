@@ -2,10 +2,6 @@
 
 **Database Name: hospitalms**
 
-**Developed by Kishan Lal**
-
-**Recommended PHP Version 5.6 or Newer**
-
 
 
 **Please download "TCPDF" for generating PDF, for now it has been removed from the project directory due to excessive file size**
